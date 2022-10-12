@@ -8,6 +8,14 @@
 
 This repository implements a template for a minimal Python package that uses Poetry for packaging and dependency management.
 
+## Installation
+
+Install `cookiecutter` first and then:
+
+```bash
+cookiecutter gh:dirmeier/cookiecutter-pypoetry
+```
+
 ## Author
 
 Simon Dirmeier <a href="mailto:sfyrbnd @ pm me">sfyrbnd @ pm me</a>
