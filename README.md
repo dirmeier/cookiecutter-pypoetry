@@ -19,5 +19,3 @@ cookiecutter gh:dirmeier/cookiecutter-pypoetry
 ## Author
 
 Simon Dirmeier <a href="mailto:sfyrbnd @ pm me">sfyrbnd @ pm me</a>
-
-
